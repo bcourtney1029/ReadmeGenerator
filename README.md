@@ -3,7 +3,7 @@
 # readme generator           
        
 ## Description
- generates readme.md file for user
+ Generates a readme.md file for the user
 
 ## Table of Contents
  * [Installation](#installation)
@@ -14,19 +14,23 @@
  * [Contact](#contact)
             
 ## Installation
- install npm init, npm fs, and npm util 
+ Before use, you must install: 
+ npm init,
+ npm fs, 
+ and npm util 
                 
 ## Usage
  By typing 'node index.js' into the command line
         
 ## License 
- MIT
+ The MIT License
+ https://opensource.org/licenses/MIT
         
 ## Contributing
  Bryan Courtney contributed to this project
                 
 ## Tests
- error and bug handling
+ Error and bug handling
         
 ## Contact
 * [bcourtney1029](https://github.com/bcourtney1029)
