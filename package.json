@@ -1,0 +1,24 @@
+{
+    "name": "module1",
+    "version": "1.0.0",
+    "description": "Commmand line application that takes in user input to create a README.md file",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/bcourtney1029/ReadmeGenerator.git"
+    },
+    "author": "Bryan Courtney",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/bcourtney1029/ReadmeGenerator.git/issues"
+    },
+    "homepage": "https://github.com/bcourtney1029/ReadmeGenerator.git#readme",
+    "dependencies": {
+      "fs": "0.0.1-security",
+      "inquirer": "^7.3.3",
+      "util": "^0.12.3"
+    }
+  }
