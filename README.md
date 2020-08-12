@@ -21,7 +21,9 @@
                 
 ## Usage
  By typing 'node index.js' into the command line like the user is doing in this example:
- /n ![Demo](generator.gif)
+ 
+ 
+ <img src="process.gif" width="500">
         
 ## License 
  The MIT License
