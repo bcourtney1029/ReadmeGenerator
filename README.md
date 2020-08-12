@@ -20,7 +20,8 @@
  and npm util 
                 
 ## Usage
- By typing 'node index.js' into the command line
+ By typing 'node index.js' into the command line like the user is doing in this example:
+ ![Demo](generator.gif)
         
 ## License 
  The MIT License
