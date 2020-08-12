@@ -23,7 +23,7 @@
  By typing 'node index.js' into the command line like the user is doing in this example:
  
  
- <img src="process.gif" width="500">
+ <img src="generator.gif" width="500">
         
 ## License 
  The MIT License
